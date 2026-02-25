@@ -1,0 +1,26 @@
+{
+  "greeting": "Bienvenue chez Medic-Aid. Comment pouvons-nous vous aider aujourd'hui?",
+  "status_ready": "✅ Votre demande a été traitée avec succès.",
+  "status_need_info": "ℹ️ Nous avons besoin de plus d'informations pour vous aider.",
+  "status_escalate": "🚨 Votre demande a été transmise à notre personnel médical.",
+  "hitl_prompt": "Révision du personnel: Veuillez approuver ou modifier la réponse ci-dessous.",
+  "hitl_approved": "Réponse approuvée et envoyée au patient.",
+  "departments": {
+    "cardiology": "Cardiologie",
+    "radiology": "Imagerie & Radiologie",
+    "dental": "Dentisterie",
+    "general": "Médecine Générale",
+    "orthopedics": "Orthopédie"
+  },
+  "prep_instructions": {
+    "cardiology": "Pour votre test de stress cardiaque: Évitez la caféine pendant 24 heures. Portez des vêtements confortables. Ne mangez pas 3 heures avant le test.",
+    "radiology": "Pour votre IRM/scan: Retirez tous les objets métalliques. Informez-nous de tout implant. Arrivez 15 minutes à l'avance. Il peut vous être demandé de jeûner pendant 4 heures.",
+    "dental": "Pour votre procédure dentaire: Brossez et utilisez la soie dentaire avant d'arriver. Si une sédation est impliquée, prévoyez un conducteur. Évitez de manger 2 heures avant.",
+    "general": "Aucune préparation spéciale nécessaire. Apportez votre carte santé et vos médicaments actuels.",
+    "orthopedics": "Pour votre rendez-vous orthopédique: Apportez les radios ou imageries de l'année passée. Portez des vêtements amples."
+  },
+  "reschedule_confirm": "Votre rendez-vous en {dept} a été reprogrammé au {date} à {time}.",
+  "cancel_confirm": "Votre rendez-vous en {dept} du {date} a été annulé avec succès.",
+  "not_found": "Nous n'avons pas trouvé de rendez-vous correspondant. Veuillez vérifier votre ID patient.",
+  "emergency_message": "⚠️ Cela ressemble à une urgence médicale. Appelez le 911 ou rendez-vous aux urgences immédiatement. N'attendez PAS un rendez-vous."
+}

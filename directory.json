@@ -1,0 +1,112 @@
+{
+  "cardiology": {
+    "en": {
+      "floor": "3rd Floor — East Wing",
+      "room": "Room 302–310",
+      "entrance": "Main Entrance on Maple Street",
+      "parking": "🅿️ Parking Lot B (East side) — Free for first 2 hours. Enter from Maple Street.",
+      "elevator": "Take Elevator A to Floor 3, turn right after exiting.",
+      "accessibility": "♿ Wheelchair accessible. Elevator A is equipped with audio assistance.",
+      "arrival_tip": "⏱️ Please arrive 15 minutes early. Bring your health card and a list of current medications.",
+      "contact": "📞 Cardiology Desk: (902) 555-0301"
+    },
+    "fr": {
+      "floor": "3e étage — Aile Est",
+      "room": "Salles 302–310",
+      "entrance": "Entrée principale sur la rue Maple",
+      "parking": "🅿️ Stationnement B (côté est) — Gratuit pour les 2 premières heures. Entrée par la rue Maple.",
+      "elevator": "Prenez l'ascenseur A jusqu'au 3e étage, tournez à droite en sortant.",
+      "accessibility": "♿ Accessible en fauteuil roulant. L'ascenseur A est équipé d'assistance audio.",
+      "arrival_tip": "⏱️ Veuillez arriver 15 minutes à l'avance. Apportez votre carte santé et la liste de vos médicaments.",
+      "contact": "📞 Bureau de cardiologie: (902) 555-0301"
+    }
+  },
+  "radiology": {
+    "en": {
+      "floor": "Ground Floor — North Wing",
+      "room": "Imaging Suite 101–115",
+      "entrance": "North Entrance on Birch Avenue",
+      "parking": "🅿️ Parking Lot A (North side) — Pay parking, $3/hour. Closest to Imaging entrance.",
+      "elevator": "No elevator needed — Ground floor. Follow blue floor signs from North Entrance.",
+      "accessibility": "♿ Full wheelchair access. Automatic doors at North Entrance.",
+      "arrival_tip": "⏱️ Arrive 20 minutes early. Remove all jewelry and metal accessories before arriving if possible.",
+      "contact": "📞 Radiology Reception: (902) 555-0101"
+    },
+    "fr": {
+      "floor": "Rez-de-chaussée — Aile Nord",
+      "room": "Suite d'imagerie 101–115",
+      "entrance": "Entrée Nord sur l'avenue Birch",
+      "parking": "🅿️ Stationnement A (côté nord) — Payant, 3$/heure. Le plus proche de l'entrée Imagerie.",
+      "elevator": "Pas d'ascenseur nécessaire — Rez-de-chaussée. Suivez les panneaux bleus depuis l'entrée Nord.",
+      "accessibility": "♿ Accès complet en fauteuil roulant. Portes automatiques à l'entrée Nord.",
+      "arrival_tip": "⏱️ Arrivez 20 minutes à l'avance. Retirez tous vos bijoux et accessoires métalliques si possible.",
+      "contact": "📞 Réception radiologie: (902) 555-0101"
+    }
+  },
+  "dental": {
+    "en": {
+      "floor": "2nd Floor — West Wing",
+      "room": "Dental Suites 201–208",
+      "entrance": "West Entrance on Cedar Road",
+      "parking": "🅿️ Parking Lot C (West side) — Free parking for patients. Validate ticket at reception.",
+      "elevator": "Take Elevator B to Floor 2. Dental is directly ahead of the elevator.",
+      "accessibility": "♿ Wheelchair accessible via Elevator B. Accessible washrooms on Floor 2.",
+      "arrival_tip": "⏱️ Arrive 10 minutes early. Brush and floss before your appointment. Inform us of any allergies.",
+      "contact": "📞 Dental Reception: (902) 555-0201"
+    },
+    "fr": {
+      "floor": "2e étage — Aile Ouest",
+      "room": "Suites dentaires 201–208",
+      "entrance": "Entrée Ouest sur le chemin Cedar",
+      "parking": "🅿️ Stationnement C (côté ouest) — Gratuit pour les patients. Validez le ticket à la réception.",
+      "elevator": "Prenez l'ascenseur B jusqu'au 2e étage. La dentisterie est directement en face de l'ascenseur.",
+      "accessibility": "♿ Accessible en fauteuil roulant via l'ascenseur B. Toilettes accessibles au 2e étage.",
+      "arrival_tip": "⏱️ Arrivez 10 minutes à l'avance. Brossez et utilisez la soie dentaire avant votre rendez-vous.",
+      "contact": "📞 Réception dentaire: (902) 555-0201"
+    }
+  },
+  "general": {
+    "en": {
+      "floor": "1st Floor — Central Wing",
+      "room": "Consultation Rooms 105–120",
+      "entrance": "Main Entrance on Maple Street",
+      "parking": "🅿️ Parking Lot B (East side) — Free for first 2 hours. Also street parking available on Maple Street.",
+      "elevator": "Take Elevator A or B to Floor 1. General Practice is signposted from the main lobby.",
+      "accessibility": "♿ Fully accessible. Priority seating available in waiting area.",
+      "arrival_tip": "⏱️ Arrive 10 minutes early. Bring your health card, photo ID, and any referral letters.",
+      "contact": "📞 General Practice Desk: (902) 555-0105"
+    },
+    "fr": {
+      "floor": "1er étage — Aile Centrale",
+      "room": "Salles de consultation 105–120",
+      "entrance": "Entrée principale sur la rue Maple",
+      "parking": "🅿️ Stationnement B (côté est) — Gratuit pour les 2 premières heures. Stationnement sur rue disponible.",
+      "elevator": "Prenez l'ascenseur A ou B jusqu'au 1er étage. La médecine générale est indiquée depuis le hall principal.",
+      "accessibility": "♿ Entièrement accessible. Sièges prioritaires disponibles en salle d'attente.",
+      "arrival_tip": "⏱️ Arrivez 10 minutes à l'avance. Apportez votre carte santé, pièce d'identité et lettres de référence.",
+      "contact": "📞 Bureau médecine générale: (902) 555-0105"
+    }
+  },
+  "orthopedics": {
+    "en": {
+      "floor": "4th Floor — South Wing",
+      "room": "Orthopedic Suites 401–412",
+      "entrance": "South Entrance on Elm Street",
+      "parking": "🅿️ Parking Lot D (South side) — Free for first 3 hours for orthopedic patients. Show appointment letter.",
+      "elevator": "Take Elevator C (South) to Floor 4. Turn left and follow signs for Orthopedics.",
+      "accessibility": "♿ Fully accessible. Wide corridors for mobility aids. Elevator C has extra space.",
+      "arrival_tip": "⏱️ Arrive 15 minutes early. Wear loose, comfortable clothing. Bring any prior X-rays or imaging.",
+      "contact": "📞 Orthopedics Desk: (902) 555-0401"
+    },
+    "fr": {
+      "floor": "4e étage — Aile Sud",
+      "room": "Suites orthopédiques 401–412",
+      "entrance": "Entrée Sud sur la rue Elm",
+      "parking": "🅿️ Stationnement D (côté sud) — Gratuit 3 heures pour les patients orthopédiques. Montrez votre lettre de rendez-vous.",
+      "elevator": "Prenez l'ascenseur C (Sud) jusqu'au 4e étage. Tournez à gauche et suivez les panneaux Orthopédie.",
+      "accessibility": "♿ Entièrement accessible. Couloirs larges pour aides à la mobilité. L'ascenseur C offre plus d'espace.",
+      "arrival_tip": "⏱️ Arrivez 15 minutes à l'avance. Portez des vêtements amples et confortables. Apportez vos radios antérieures.",
+      "contact": "📞 Bureau orthopédie: (902) 555-0401"
+    }
+  }
+}

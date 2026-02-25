@@ -1,0 +1,26 @@
+{
+  "greeting": "Welcome to Medic-Aid. How can we help you today?",
+  "status_ready": "✅ Your request has been processed successfully.",
+  "status_need_info": "ℹ️ We need a bit more information to assist you.",
+  "status_escalate": "🚨 Your request has been escalated to our medical staff.",
+  "hitl_prompt": "Staff Review: Please approve or edit the draft response below.",
+  "hitl_approved": "Response approved and sent to patient.",
+  "departments": {
+    "cardiology": "Cardiology",
+    "radiology": "Imaging & Radiology",
+    "dental": "Dental",
+    "general": "General Practice",
+    "orthopedics": "Orthopedics"
+  },
+  "prep_instructions": {
+    "cardiology": "For your cardiac stress test: Avoid caffeine for 24 hours before. Wear comfortable clothing. Do not eat 3 hours before the test.",
+    "radiology": "For your MRI/scan: Remove all metal objects. Inform us of any implants. Arrive 15 minutes early. You may be asked to fast for 4 hours.",
+    "dental": "For your dental procedure: Brush and floss before arriving. If sedation is involved, arrange a driver. Avoid eating 2 hours before.",
+    "general": "No special preparation needed. Please bring your health card and any current medications.",
+    "orthopedics": "For your orthopedic appointment: Bring any X-rays or imaging done in the past year. Wear loose clothing for easy limb access."
+  },
+  "reschedule_confirm": "Your appointment for {dept} has been rescheduled to {date} at {time}.",
+  "cancel_confirm": "Your appointment for {dept} on {date} has been successfully cancelled.",
+  "not_found": "We could not find an appointment matching your details. Please verify your Patient ID.",
+  "emergency_message": "⚠️ This sounds like a medical emergency. Please call 911 or go to your nearest emergency room immediately. Do NOT wait for an appointment."
+}
