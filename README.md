@@ -1,12 +1,5 @@
 # Medic-Aid — Intelligent Hospital Appointment Assistant
 
-**MBAN 5510 Final Project**
-Saint Mary's University | Instructor: Michael Zhang | Deadline: February 25, 2026
-
-[![Python](https://img.shields.io/badge/Python-3.11+-blue)](https://python.org)
-[![LangGraph](https://img.shields.io/badge/LangGraph-0.2+-green)](https://github.com/langchain-ai/langgraph)
-[![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)](https://streamlit.io)
-
 ---
 
 ## Project Overview
@@ -335,19 +328,6 @@ medic-aid/
 └── tests/
     └── test_scenarios.py         Six automated test scenarios
 ```
-
----
-
-## Demo Video
-
-LinkedIn demo link: [ADD YOUR LINKEDIN LINK HERE]
-
-The demo covers the following scenarios:
-
-- LOW risk scenario: patient reschedules via agent conversation loop (follow-up question, reply, confirmation)
-- MEDIUM risk scenario: unknown intent routed to Staff Portal HITL review queue
-- HIGH risk scenario: emergency message triggering immediate escalation
-- Bilingual scenario: French-language request with French response and directory
 
 ---
 
